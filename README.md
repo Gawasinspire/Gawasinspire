@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gawasinspire
+- 👋 Hi, I’m Gavaskar Kanagaraj/ @Gawasinspire alias Gawas 
 - 👀 I’m interested in developing a systematic solutions.
 - :wrench:  I have played with controllers
 - :muscle: I'm strenthening python skills 
