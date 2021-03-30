@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gavaskar Kanagaraj/ @Gawasinspire alias Gawas 
+- 👋 Hi, I’m Gavaskar Kanagaraj @Gawasinspire
 - 👀 I’m interested in developing a systematic solutions.
 - :wrench:  I have played dirty with microcontrollers(STM32s, Cortex A9..)
 - :thinking: I could understand/did some works on Java, R, Data Structures, GDscripts, html,xml, md, Matlab, Scilab, yaml, GAMS, Rust ..
