@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gavaskar Kanagaraj/ @Gawasinspire alias Gawas 
 - 👀 I’m interested in developing a systematic solutions.
-- :wrench:  I have played good with microcontrollers(STM32s, Cortex A9..)
-- :thinking: I could understand/did some works on java, R, c, c++, Data Structures, GDscripts, html,xml, md, Matlab yaml, GAMS, ..
-- :star: I am good at c and c++
+- :wrench:  I have played dirty with microcontrollers(STM32s, Cortex A9..)
+- :thinking: I could understand/did some works on Java, R, Data Structures, GDscripts, html,xml, md, Matlab, Scilab, yaml, GAMS, Rust ..
+- :star: I am good at C and C++
 - :muscle: I'm strenthening python skills 
 - 🌱 I’m currently learning essential Math for Machine Learning platforms...
 - 💞️ I’m looking forward to collaborate on Artificial Intelligence projects
