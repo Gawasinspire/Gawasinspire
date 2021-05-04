@@ -4,7 +4,7 @@
 - :thinking: I could understand/did some works on Java, R, Data Structures, GDscripts, html,xml, md, Matlab, Scilab, yaml, GAMS, Rust ..
 - :star: I am good at C and C++
 - :muscle: I'm strenthening my python skills 
-- 🌱 I’m currently learning essential Math for Machine Learning platforms...
+- 🌱 I’m currently learning essential transformers for Machine Learning platforms...
 - 💞️ I’m looking forward to collaborate on Artificial Intelligence projects
 - 📫 you could reach me via email: gavaskar2018@google.com
 - :office: https://www.linkedin.com/in/gavaskar-kanagaraj-67878b111
