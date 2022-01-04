@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<title>Project | Gavaskar blog</title>
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.91.2" />
+<meta name="description" content="my blog">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://gawasinspire.github.io/css/index.css">
+<link rel="canonical" href="https://gawasinspire.github.io/post/project/">
+<link rel="alternate" type="application/rss+xml" href="" title="Gavaskar blog">
+
+<header>
+  
+    <a href="https://gawasinspire.github.io/" class="title">Gavaskar blog</a>
+  
+  
+    <nav>
+    
+      <a href="/about/">About</a>
+    
+    </nav>
+  
+</header>
+
+<article>
+  <header>
+    <h1>Project</h1>
+    <time datetime="2021-01-21T21:34:22&#43;01:00">January 21, 2021</time>
+  </header>
+  <p>After searching for an exciting machine learning academic project, I got a Lego Atlas team project.</p>
+<p>A team of four members was allocated to do the project at the start, Lego Atlas. However, only two members were dedicated to remaining for the project after finalizing. Others changed their direction of research interest.</p>
+<p>Overview:
+<strong>Problem</strong>:
+Automation problems involved in dismantling from generated e-waste causes reduced reuse/recycling.</p>
+<p><strong>Idea</strong>:
+Lego structures are, in principle, similar to electronic products. The is dismantling pre-built lego structures through accurate identification of top brick.</p>
+<p><strong>Benefits</strong>:
+Improved Sustainability, Better recycling, and reuse</p>
+<p><strong>Actions</strong>:
+The deployment of lego structure identifications and guided dismantling using the knowledge base is done. A domain expert provides the knowledge base.</p>
+<p>At first, I started to get familiar with the hardware. Did some example work deployment? Learned and played with the pipelines and then with the simulated dataset created by other thesis work.</p>
+<p>Our project is to extend Luca&quot;s Bachelor Thesis work(). The work uses the simulated dataset created and fastAI to get 100 percent accuracy. (What..?) (of course, if the validation accuracy is taken as test accuracy but complicated in reality and using k fold cross-validation testing). We need to deploy this Idea in high-end hardware. That may sound simple to us. But honestly, not. The process encountered a lot of problems.</p>
+<p>First problem,
+fastAI framework library does not work in the given hardware. The Camera is not working as expected. Only Caffe frameworks and particular versions of TensorFlow and PyTorch are deployable in the hardware. The examples are always given with the pre-trained Caffe libraries and models for deployment, and it worked well. But the project demands a custom model generation.</p>
+<p>The next huge problem is a dataset; the simulated dataset is not perfectly appropriate with the real-time dataset. The model fails to work with a brick image from the Camera. There is no decision tree concept developed in the thesis but expected to deploy. Also, Resnet 18 is deprecated.
+The decision used in the thesis is not a popular decision tree classifier but a static decision concept that needs to be embedded with the model for sequential findings.</p>
+<p>I told myself to stop blaming and start fixing. So first worked on developing the model with given data, and then the results were not similar when deployed on the hardware.</p>
+<p>First, I debugged the problem and fixed it. By default, ATC (Atlas Tensor Compiler) does computation only as int 8. So the proto buffer saved weighted and variables as float32 caused those problems. Similarly, one by one fixed all those problems.</p>
+<p>In the end, we need to redo complete pipelines and all works as the project demands it.
+So, I first started to work on dataset creation before developing a script that guided the assembling sequence.</p>
+<p>The Machine Learning model must identify the color of the top layer brick. So, this sequence generator helped with the uniform creation of the dataset.</p>
+<p>The Experimental st up is made as shown here. (Link), The architectural setup is created as(link)</p>
+<p>Then, semi-automated the data set creation part, a photo is taken and saved for each key pressed. Then following sequence is assembled. Photos are taken from different angles for each assemble sequence and then augmented using custom methods. The project could not use data augmentation frameworks because DataAugumentation frameworks could produce an inappropriate dataset that may fail to meet the project constraints.</p>
+<p>During model deployment, a job is created to run on Huawei hardware with local environment variables through SFTP protocol. This baby step was a pretty milestone in the project&rsquo;s completion.</p>
+<p>Then the model became robust. Then, the user-developed a Graphical User Interface(link) using the &ldquo;PySimpleGuiQT&rdquo; library powered by Tkinter. Then evaluated the results and compared them with a possible combination of simulated and real-world data set. The max F1-score achieved in this comparison is 92 %.</p>
+<p>repo: <a href="https://gitlab.tu-clausthal.de/isse/rg-aai/lego_atlas">https://gitlab.tu-clausthal.de/isse/rg-aai/lego_atlas</a>
+contribution graph: link
+The live demo was uploaded on streamable and can be viewed under the link (<a href="https://streamable.com/hx73v3">https://streamable.com/hx73v3</a>)</p>
+
+</article>
+
+
+
+</html>

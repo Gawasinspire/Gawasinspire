@@ -1,12 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Gavaskar blog</title>
     <link>https://gawasinspire.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Gavaskar blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2019 21:31:15 +0100</lastBuildDate><atom:link href="https://gawasinspire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 21:38:52 +0100</lastBuildDate><atom:link href="https://gawasinspire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online courses</title>
+      <link>https://gawasinspire.github.io/post/online_courses/</link>
+      <pubDate>Sun, 21 Mar 2021 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/online_courses/</guid>
+      <description>I spent the covid situation time with online courses and would like to list glimpses about some courses that i found it interesting.
+Design Thinking by Chris Nodder
+I was curious to learn how to improve software development process/methodologies in team. This course was quite interesting. It gave me ideas to find the important features to deploy and the significance of weightage of features of software. Ideation and time to market, proof of concept testing.</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://gawasinspire.github.io/post/project/</link>
+      <pubDate>Thu, 21 Jan 2021 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/project/</guid>
+      <description>After searching for an exciting machine learning academic project, I got a Lego Atlas team project.
+A team of four members was allocated to do the project at the start, Lego Atlas. However, only two members were dedicated to remaining for the project after finalizing. Others changed their direction of research interest.
+Overview: Problem: Automation problems involved in dismantling from generated e-waste causes reduced reuse/recycling.
+Idea: Lego structures are, in principle, similar to electronic products.</description>
+    </item>
+    
+    <item>
+      <title>About the learnings Strive School</title>
+      <link>https://gawasinspire.github.io/post/about_strive/</link>
+      <pubDate>Mon, 21 Dec 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/about_strive/</guid>
+      <description>After Proceeding with the strive school, I felt a vacuum in myself that the academic projects were more research-oriented and trying to do something new and unique. In this coding school, I am, of course, coding and spending a lot of time in coding, but not a significant work that makes me unique is happening.
+I felt that I could complete a research project in the machine learning domain myself and learn the required skills—time to test my capability in the actual playground.</description>
+    </item>
+    
+    <item>
+      <title>Strive School log</title>
+      <link>https://gawasinspire.github.io/post/strive_log/</link>
+      <pubDate>Mon, 21 Dec 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/strive_log/</guid>
+      <description>links and hyperlinks not properly linked need to fix after uploads
+Strive logs Hello all, this is my(Gavaskar) log book that i used during strive school for reference. Non-stop coding enjoyment..+
+Ideas:
+OCR —&amp;gt; latex
+Chess with image—&amp;gt; multi threaded, npm solver.
+Strive: make great efforts to achieve or obtain something that you thought it was impossible.
+Day 1:
+Intro and advertisements about Strive schools. Little bored
+I have upgraded my KDE with plasma.</description>
+    </item>
+    
+    <item>
+      <title>42 wolfsburg</title>
+      <link>https://gawasinspire.github.io/post/42wolfsburg/</link>
+      <pubDate>Sat, 21 Nov 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/42wolfsburg/</guid>
+      <description>A considerable void filled my heart and mind after the Job and frustration of incomplete work due to Covid. I needed an immediate distraction, and I decided to participate in some intense coding competitions, and luck by chance, I found 42wolfsburg. That was fun at the start and occupied me more than I thought.
+Students coded with bash scripts and C all day long. About 15 to 16 hours a day.</description>
+    </item>
+    
+    <item>
+      <title>Dlr2</title>
+      <link>https://gawasinspire.github.io/post/dlr2/</link>
+      <pubDate>Wed, 21 Oct 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/dlr2/</guid>
+      <description>Second contract on DLR
+The Job is to develop an application in the testbed environment. For further work, I was planning to move to Spain. Due to the high number of covid cases, the situation was unfavorable. I had few choices left. I focused on finishing my academic subjects on a stretch passed five exams on the semester. Then keen on AI topics to learn. A vast void inside me which created due to the corona crisis and lockdowns.</description>
+    </item>
+    
+    <item>
+      <title>DLR first contract</title>
+      <link>https://gawasinspire.github.io/post/dlr1/</link>
+      <pubDate>Mon, 21 Sep 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/dlr1/</guid>
+      <description>Hiwi. STM 32 and Arinc stories.
+My first HiWi, after earning good grades in aeronautical informatics. I asked the professor for Hiwi Job to continue working with him. He offered me the job to implement an ARINC 653 on STM32. At first, I thought it would be doable and straightforward, but in reality, I need to learn more concepts to make things work in the way expected. Stm 32 is a powerful microcontroller, but bare metal programming is not a simplified Task like AVR chips.</description>
+    </item>
+    
+    <item>
+      <title>HiWi</title>
+      <link>https://gawasinspire.github.io/post/hiwi/</link>
+      <pubDate>Fri, 21 Aug 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/hiwi/</guid>
+      <description>Hiwi. STM 32 and ARINC stories.
+My first HiWi, after earning good grades in aeronautical informatics. I asked the professor for Hiwi Job to continue working with him. He offered me the job to implement an ARINC 653 on STM32. At first, I thought it would be doable and straightforward, but in reality, I need to learn more concepts to make things work in the way expected. Stm 32 is a powerful microcontroller, but bare metal programming is not a simplified Task like AVR chips.</description>
+    </item>
+    
+    <item>
+      <title>Academics in TU Clausthal</title>
+      <link>https://gawasinspire.github.io/post/academics_in_clausthal/</link>
+      <pubDate>Tue, 21 Jul 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/academics_in_clausthal/</guid>
+      <description>I enrolled in eight subjects and planned in Fantasy to clear all the subjects as quickly as possible with overwhelming enthusiasm. But at the end of the semester, in reality, I could clear only two subjects.
+In reality, Slow And steady wins the race.
+Dedication and time-consuming efforts are rigorously needed for homework and assignments to earn Schein. Many times it was exciting, and sometimes they were a nightmare. To meet deadlines, most of the time, it is better to be over-prepared than to make it done by the end of the deadline.</description>
+    </item>
+    
+    <item>
+      <title>Into Germany c1...</title>
+      <link>https://gawasinspire.github.io/post/into_c1/</link>
+      <pubDate>Sun, 21 Jun 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/into_c1/</guid>
+      <description>After six months of slow application and preparation, I got admission to TU Clausthal. In the meantime, I worked in the project center to pay for my food. Then, I applied for the visa process. I got rejected due to insufficient funding. After saving and gathering, the budget got the visa. Then entered into Clausthal. With all excitement getting burst out in the first few weeks, I spent most of the time alone.</description>
+    </item>
+    
+    <item>
+      <title>Internships at Tu Chemnitz</title>
+      <link>https://gawasinspire.github.io/post/internship/</link>
+      <pubDate>Thu, 21 May 2020 21:34:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/internship/</guid>
+      <description>Good, I cleared the interview, and I have been invited to Chemnitz for an internship and need to start my groundwork. And I need to apply for a passport and Visa. What to do now? I knew no one traveled on flights to whom I could personally speak. What is Visa. ? How much money do I need? Even my bachelor&amp;rsquo;s complete education, including my hostel, is fully sponsored, I could not know what was waiting for me.</description>
+    </item>
+    
+    <item>
+      <title>Wabco</title>
+      <link>https://gawasinspire.github.io/post/wabco/</link>
+      <pubDate>Tue, 21 Apr 2020 21:34:11 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/wabco/</guid>
+      <description>This simple exhibit got into many eyes in college locality. The chairman offered me an industrial IoT project. Wabco India is one of the leading manufacturers of reliable braking systems and provides a wide range of vehicle brake testing systems. A friend from other mechatronics departments and I jointly worked there to enhance an industrial automation job by making use IOT concept. There are several test rig systems, and whenever a rigged system overflows a certain threshold in terms of pressure or temperature, a human presence is demanded to solve the issue.</description>
+    </item>
+    
+    <item>
+      <title>Home automation project</title>
+      <link>https://gawasinspire.github.io/post/home_automation/</link>
+      <pubDate>Sat, 21 Mar 2020 21:34:03 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/home_automation/</guid>
+      <description>I visited a workshop in a college for the symposium and got to know about bare metal programming in C with AVR controllers. Then learned about the i2c protocol. Finally, I coded the controller to blink the LED light. It was so simple, but I was fascinated to control some light sources with my interest. This event gave me inspiration for a home automation project later.
+Further spent time to learn SPI, UART, and IoT.</description>
+    </item>
+    
+    <item>
+      <title> E bike</title>
+      <link>https://gawasinspire.github.io/post/ebike/</link>
+      <pubDate>Tue, 21 Jan 2020 21:33:52 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/ebike/</guid>
+      <description>With his team of mechanical engineering students, a friend of mine approached me to support a competition where we needed to assemble an E-Bike. Being a third ECE student endorsed the project and contributed to a built-in anti-theft and speed control system. The speed control system was inspired by a speech given by a guest lecture at my college. He told gatherings that in a luxurious car with a facility, the car owner controlled the electronic drives and explained further that the car owner could define the maximum speed that who can drive the vehicle can be constrained based upon the app.</description>
+    </item>
+    
     <item>
       <title>How it all began..</title>
       <link>https://gawasinspire.github.io/post/how_it_all_begin/</link>
@@ -14,6 +161,39 @@
       
       <guid>https://gawasinspire.github.io/post/how_it_all_begin/</guid>
       <description>I was born in a small village named vriddhachalam in December 1994 (*catchers.violinist.wakes) from Tamilnadu, India (south) and bought up in Salem (*accordion.ushering.shackles), a city famous for Mangoes, also often called as Steel City. The city is rich in bauxite ore. My Father is a weaver, and so do their forefathers. So weaving is like a family tradition for us. My parents want to give me the best education in the locality as all typical Indian parents do, and they put me in a CBSE school for secondary education.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/learning-journals-c2eccd8b45e348ef9b7f491b420d2322/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/learning-journals-c2eccd8b45e348ef9b7f491b420d2322/</guid>
+      <description>Learning Journals I am passionate about Embedded stuffs.
+Day 1:
+Total chaos&amp;hellip;
+they introduced 42 concepts and tribe concepts. Also notion and suggested to profile our self : ended in chaos, as instructed students started to copy/clone, edit the profile from everyone. The profile owners got frustrated and started to freaking out. After some meetings, it was regulated. There is a gamification concept through which we get points for community meetings, peer meeting, for being online in discord.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/my-goals-okrs-040273f440b64d01a946cfe785dd559e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/my-goals-okrs-040273f440b64d01a946cfe785dd559e/</guid>
+      <description>My Goals &amp;amp; OKRs On this page you can reflect in more detail on your personal learning goals and specify OKRs to make sure you can track your progress.
+Remember that you can use the SKATE Competence model and the Bloom Taxonomy to increase the variety of goals and choose explicit language so others and your future your don&amp;rsquo;t misunderstand what you want to achieve.
+You can also invite people to give you feedback on your goals or create small groups to do timed check-ins to talk about your goals and your progress.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/who-what-why-983420840b9c4607872418cf79a2d3e1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/who-what-why-983420840b9c4607872418cf79a2d3e1/</guid>
+      <description>Who, What, Why Pisciner
+🎯 Learning Goals: What do I want to learn?  Embedded Development Linux Kernel Development  🦸‍♀️ Motivation: Why do I want to learn that?  From the childhood, i am fascinated to make things to move. This curiosity landed up in embedded where i could hardcore stuffs to behave or imitate like lively beings. I believe this kind of technologies (which are already playing a prominent) but also will play vital role in near futures.</description>
     </item>
     
   </channel>
