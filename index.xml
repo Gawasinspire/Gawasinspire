@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Dec 2021 21:38:52 +0100</lastBuildDate><atom:link href="https://gawasinspire.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://gawasinspire.github.io/about/</link>
+      <pubDate>Tue, 04 Jan 2022 15:32:26 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/about/</guid>
+      <description>Gavaskar, a software developer.
+Welcome to my blog. Thank you for showing interest in getting to know more about me. The blog motivates me when I feel personally low. It has collections that made me. So maybe it helps to know about me better.
+I feel happy to engage myself when I can deliver my skills that add value to society, company, organization, or a person.</description>
+    </item>
+    
+    <item>
       <title>Online courses</title>
       <link>https://gawasinspire.github.io/post/online_courses/</link>
       <pubDate>Sun, 21 Mar 2021 21:34:22 +0100</pubDate>
@@ -31,7 +42,18 @@ Idea: Lego structures are, in principle, similar to electronic products.</descri
     </item>
     
     <item>
-      <title>About the learnings Strive School</title>
+      <title>Publications</title>
+      <link>https://gawasinspire.github.io/post/publication/</link>
+      <pubDate>Thu, 21 Jan 2021 21:33:22 +0100</pubDate>
+      
+      <guid>https://gawasinspire.github.io/post/publication/</guid>
+      <description>First acedemic work towards scientific writing was in research methodologies.
+Further, seminar work through the HiWi and student jobs in DLR.
+Then survey paper for a academic seminar topic.</description>
+    </item>
+    
+    <item>
+      <title>About the learnings in AI Bootcamp</title>
       <link>https://gawasinspire.github.io/post/about_strive/</link>
       <pubDate>Mon, 21 Dec 2020 21:34:22 +0100</pubDate>
       
@@ -41,7 +63,7 @@ I felt that I could complete a research project in the machine learning domain m
     </item>
     
     <item>
-      <title>Strive School log</title>
+      <title>AI Bootcamp log</title>
       <link>https://gawasinspire.github.io/post/strive_log/</link>
       <pubDate>Mon, 21 Dec 2020 21:34:22 +0100</pubDate>
       
@@ -58,7 +80,7 @@ I have upgraded my KDE with plasma.</description>
     </item>
     
     <item>
-      <title>42 wolfsburg</title>
+      <title>Bootcamp</title>
       <link>https://gawasinspire.github.io/post/42wolfsburg/</link>
       <pubDate>Sat, 21 Nov 2020 21:34:22 +0100</pubDate>
       
@@ -68,7 +90,7 @@ Students coded with bash scripts and C all day long. About 15 to 16 hours a day.
     </item>
     
     <item>
-      <title>Dlr2</title>
+      <title>DLR 2</title>
       <link>https://gawasinspire.github.io/post/dlr2/</link>
       <pubDate>Wed, 21 Oct 2020 21:34:22 +0100</pubDate>
       
@@ -109,7 +131,7 @@ Dedication and time-consuming efforts are rigorously needed for homework and ass
     </item>
     
     <item>
-      <title>Into Germany c1...</title>
+      <title>Into Germany and C1</title>
       <link>https://gawasinspire.github.io/post/into_c1/</link>
       <pubDate>Sun, 21 Jun 2020 21:34:22 +0100</pubDate>
       
@@ -118,7 +140,7 @@ Dedication and time-consuming efforts are rigorously needed for homework and ass
     </item>
     
     <item>
-      <title>Internships at Tu Chemnitz</title>
+      <title>Internships at TU Chemnitz</title>
       <link>https://gawasinspire.github.io/post/internship/</link>
       <pubDate>Thu, 21 May 2020 21:34:22 +0100</pubDate>
       
@@ -132,7 +154,7 @@ Dedication and time-consuming efforts are rigorously needed for homework and ass
       <pubDate>Tue, 21 Apr 2020 21:34:11 +0100</pubDate>
       
       <guid>https://gawasinspire.github.io/post/wabco/</guid>
-      <description>This simple exhibit got into many eyes in college locality. The chairman offered me an industrial IoT project. Wabco India is one of the leading manufacturers of reliable braking systems and provides a wide range of vehicle brake testing systems. A friend from other mechatronics departments and I jointly worked there to enhance an industrial automation job by making use IOT concept. There are several test rig systems, and whenever a rigged system overflows a certain threshold in terms of pressure or temperature, a human presence is demanded to solve the issue.</description>
+      <description>This simple robotic arm project exhibit got into many eyes in college locality. The chairman offered me an industrial IoT project. Wabco India place is one of the leading manufacturers of reliable braking systems and provides a wide range of vehicle brake testing systems. A friend from other mechatronics departments and I jointly worked there to enhance an industrial automation job by making use IOT concept. There are several test rig systems, and whenever a rigged system overflows a certain threshold in terms of pressure or temperature, a human presence is demanded to solve the issue.</description>
     </item>
     
     <item>
@@ -160,7 +182,7 @@ Further spent time to learn SPI, UART, and IoT.</description>
       <pubDate>Sat, 21 Dec 2019 21:31:15 +0100</pubDate>
       
       <guid>https://gawasinspire.github.io/post/how_it_all_begin/</guid>
-      <description>I was born in a small village named vriddhachalam in December 1994 (*catchers.violinist.wakes) from Tamilnadu, India (south) and bought up in Salem (*accordion.ushering.shackles), a city famous for Mangoes, also often called as Steel City. The city is rich in bauxite ore. My Father is a weaver, and so do their forefathers. So weaving is like a family tradition for us. My parents want to give me the best education in the locality as all typical Indian parents do, and they put me in a CBSE school for secondary education.</description>
+      <description>I was born in a small village named vriddhachalam place in December 1994 from Tamilnadu, India (south) and bought up in Salem place, a city famous for Mangoes, also often called as Steel City. The city is rich in bauxite ore. My Father is a weaver, and so do their forefathers. So weaving is like a family tradition for us. My parents want to give me the best education in the locality as all typical Indian parents do, and they put me in a CBSE school for secondary education.</description>
     </item>
     
     <item>
@@ -193,7 +215,7 @@ You can also invite people to give you feedback on your goals or create small gr
       
       <guid>https://gawasinspire.github.io/etc/gavaskar-kanagaraj-191f4add676b42ac9d1d6dffc1d6e84e/who-what-why-983420840b9c4607872418cf79a2d3e1/</guid>
       <description>Who, What, Why Pisciner
-🎯 Learning Goals: What do I want to learn?  Embedded Development Linux Kernel Development  🦸‍♀️ Motivation: Why do I want to learn that?  From the childhood, i am fascinated to make things to move. This curiosity landed up in embedded where i could hardcore stuffs to behave or imitate like lively beings. I believe this kind of technologies (which are already playing a prominent) but also will play vital role in near futures.</description>
+🎯 Learning Goals: What do I want to learn? Embedded Development Linux Kernel Development 🦸‍♀️ Motivation: Why do I want to learn that? From the childhood, i am fascinated to make things to move. This curiosity landed up in embedded where i could hardcore stuffs to behave or imitate like lively beings. I believe this kind of technologies (which are already playing a prominent) but also will play vital role in near futures.</description>
     </item>
     
   </channel>
